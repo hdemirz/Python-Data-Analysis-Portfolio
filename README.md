@@ -67,13 +67,5 @@ jupyter notebook
 - Örnekler temel seviyeden ileri seviyeye doğru ilerlemektedir.
 - Tüm çalışmalar interaktif olarak Jupyter Notebook üzerinde gerçekleştirilmiştir.
 
-## 👨‍💻 Geliştirici
-
-[İsminiz]
-
-## 📜 Lisans
-
-Bu proje [lisans_türü] altında lisanslanmıştır.
-
 ---
 ⭐ Bu projeyi faydalı buldaysanız yıldızlamayı unutmayın!
